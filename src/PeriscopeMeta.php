@@ -1,6 +1,7 @@
 <?php
 
 	namespace Z;
+
 	class PeriscopeMeta
 	{
 		private $userName;
